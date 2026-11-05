@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Einstein\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|c:\\users\\user\\source\\repos\\einstein\\enrolstudentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:enrolstudentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\enrolstudentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:enrolstudentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\expensescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:expensescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\attendancecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:attendancecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\studentscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:studentscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\teacherscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:teacherscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\revenuecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:revenuecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\otherscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:otherscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\enrolstudentcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:enrolstudentcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|C:\\Users\\User\\source\\repos\\Einstein\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898491B8-6C3C-4841-AE17-DC9EDB20927B}|Einstein.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "DashboardControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\DashboardControl.cs [Design]",
+              "RelativeToolTip": "DashboardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T08:38:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OthersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\OthersControl.cs",
+              "RelativeDocumentMoniker": "OthersControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\OthersControl.cs [Design]",
+              "RelativeToolTip": "OthersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:59:00.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RevenueControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\RevenueControl.cs",
+              "RelativeDocumentMoniker": "RevenueControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\RevenueControl.cs [Design]",
+              "RelativeToolTip": "RevenueControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:56:50.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeachersControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\TeachersControl.cs",
+              "RelativeDocumentMoniker": "TeachersControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\TeachersControl.cs [Design]",
+              "RelativeToolTip": "TeachersControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:55:50.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\StudentsControl.cs",
+              "RelativeDocumentMoniker": "StudentsControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\StudentsControl.cs [Design]",
+              "RelativeToolTip": "StudentsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:54:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\AttendanceControl.cs",
+              "RelativeDocumentMoniker": "AttendanceControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\AttendanceControl.cs [Design]",
+              "RelativeToolTip": "AttendanceControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:53:43.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpensesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\ExpensesControl.cs",
+              "RelativeDocumentMoniker": "ExpensesControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\ExpensesControl.cs [Design]",
+              "RelativeToolTip": "ExpensesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:52:45.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrolStudentControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.cs",
+              "RelativeDocumentMoniker": "EnrolStudentControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.cs",
+              "RelativeToolTip": "EnrolStudentControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:37:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnrolStudentControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.Designer.cs",
+              "RelativeDocumentMoniker": "EnrolStudentControl.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.Designer.cs",
+              "RelativeToolTip": "EnrolStudentControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:36:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrolStudentControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.cs",
+              "RelativeDocumentMoniker": "EnrolStudentControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\EnrolStudentControl.cs [Design]",
+              "RelativeToolTip": "EnrolStudentControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:36:23.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\DashboardControl.cs",
+              "RelativeDocumentMoniker": "DashboardControl.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\DashboardControl.cs",
+              "RelativeToolTip": "DashboardControl.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T08:48:56.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T10:55:41.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADEBAAAATgAAAEAswEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:59:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:55:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Einstein\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T22:13:32.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@ namespace Einstein
 {
     internal class DatabaseConnection
     {
-        public string connectionString = "User Id=system;Password=jerrygoat;Data Source=localhost:1521/XE;";
+        public string connectionString = "Your connection string";
 
     }
 }
